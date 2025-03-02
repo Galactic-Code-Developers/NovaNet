@@ -1,0 +1,115 @@
+# General files
+*.log
+*.out
+*.bak
+*.swp
+*.tmp
+*.DS_Store
+*.lock
+*.pid
+*.seed
+nohup.out
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Go build artifacts
+bin/
+*.exe
+*.test
+*.a
+*.o
+*.so
+vendor/
+go.sum
+go.mod
+
+# Rust build artifacts
+target/
+Cargo.lock
+*.rs.bk
+debug/
+
+# Solidity (Hardhat/Foundry/Truffle) build files
+artifacts/
+cache/
+coverage/
+typechain/
+*.json
+.env
+.env.local
+.secret
+openzeppelin/
+
+# zk-SNARKs and Cryptographic Proofs (Circom, SnarkJS, Bellman, Halo2)
+circuits/*.r1cs
+circuits/*.wasm
+circuits/*.ptau
+circuits/*.zkey
+circuits/*.wtns
+
+# Ethereum, EVM & Hardhat Files
+node_modules/
+cache/
+coverage/
+artifacts/
+typechain/
+openzeppelin/
+hardhat.config.ts
+hardhat.config.js
+.solcover.js
+.solcover.json
+remappings.txt
+*.t.sol
+gas-reports/
+
+# Python Virtual Environment (For ML-Based Gas Optimization)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Web3 & Frontend (React, Next.js)
+.next/
+out/
+build/
+dist/
+coverage/
+*.env
+*.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Databases & Secrets
+*.sqlite
+*.db
+*.pem
+*.crt
+*.key
+*.wallet
+keystore/
+secrets/
+config.yaml
+config.json
+
+# Logs & Debugging
+debug.log
+*.log
+nohup.out
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
