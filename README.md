@@ -8,14 +8,15 @@ NovaChain is a next-generation hybrid blockchain designed to power decentralized
 **1. Hybrid Blockchain for Speed, Security, and Compliance**
 NovaChain combines Layer-1 and Layer-2 technologies to deliver a fast, scalable, and privacy-first blockchain ecosystem.
 
-## Layer-1 (NovaNet Core)
+* ### Layer-1 (NovaNet Core)
 
-* **Built on Delegated Proof-of-Stake (DPoS) for fast block finality.**
-Smart contract support (EVM-compatible) for seamless Web3 integration.
-Governance model where stakeholders vote on chain upgrades.
-Layer-2 (Nova ZK-Rollups)
+* Built on Delegated Proof-of-Stake (DPoS) for fast block finality.
+* Smart contract support (EVM-compatible) for seamless Web3 integration.
+* Governance model where stakeholders vote on chain upgrades.
 
-* **Enables low-cost, high-throughput transactions by batching transactions off-chain.**
+* ### Layer-2 (Nova ZK-Rollups)
+
+* Enables low-cost, high-throughput transactions by batching transactions off-chain.**
 * Uses Zero-Knowledge Proofs (ZKPs) to allow private identity verification without exposing personal data.
 * Ensures regulatory compliance while maintaining user anonymity.
 
