@@ -1,5 +1,7 @@
 # Blockchain: NovaNet (NOVA)
 
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
 NovaChain: The Future of Decentralized Identity and AI-Driven Transactions
 NovaChain is a next-generation hybrid blockchain designed to power decentralized identity (KYC), AI-driven economies, and scalable digital interactions. Built with a Layer-1 Delegated Proof-of-Stake (DPoS) blockchain combined with Layer-2 ZK-Rollup technology, NovaChain provides high-speed, low-cost, and privacy-compliant solutions for Web3 applications, digital identity verification, and AI-enhanced decentralized finance (DeFi).
 
@@ -58,3 +60,14 @@ To encourage adoption, NovaChain offers:
 # Why NovaChain?
 
 NovaChain is the missing link between decentralized identity, AI-driven transactions, and regulatory compliance. Unlike traditional blockchains that focus only on financial transactions, NovaChain enables privacy-preserving identity verification, AI-driven compliance, and frictionless digital economies—all in one decentralized framework.
+
+## License
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
+Copyright © 2019-2025 [Galactic Code Developers](<https://gist.github.com/ChrisTollefson/](https://github.com/Galactic-Code-Developers>)
+
