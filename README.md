@@ -10,15 +10,15 @@ NovaChain combines Layer-1 and Layer-2 technologies to deliver a fast, scalable,
 
 * ### Layer-1 (NovaNet Core)
 
-* * Built on Delegated Proof-of-Stake (DPoS) for fast block finality.
-* * Smart contract support (EVM-compatible) for seamless Web3 integration.
-* * Governance model where stakeholders vote on chain upgrades.
+  * Built on Delegated Proof-of-Stake (DPoS) for fast block finality.
+  * Smart contract support (EVM-compatible) for seamless Web3 integration.
+  * Governance model where stakeholders vote on chain upgrades.
 
 * ### Layer-2 (Nova ZK-Rollups)
 
-* * Enables low-cost, high-throughput transactions by batching transactions off-chain.**
-* * Uses Zero-Knowledge Proofs (ZKPs) to allow private identity verification without exposing personal data.
-* * Ensures regulatory compliance while maintaining user anonymity.
+  * Enables low-cost, high-throughput transactions by batching transactions off-chain.**
+  * Uses Zero-Knowledge Proofs (ZKPs) to allow private identity verification without exposing personal data.
+  * Ensures regulatory compliance while maintaining user anonymity.
 
 **2. Self-Sovereign Identity (SSI) with SmartID KYC NFT**
 NovaChain introduces SmartID KYC NFTs, allowing users to verify their identity once and use it across multiple platforms without repeated KYC processes.
