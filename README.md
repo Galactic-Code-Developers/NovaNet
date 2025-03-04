@@ -18,7 +18,7 @@ NovaChain combines Layer-1 and Layer-2 technologies to deliver a fast, scalable,
 
 * ### Layer-2 (Nova ZK-Rollups)
 
-  * Enables low-cost, high-throughput transactions by batching transactions off-chain.**
+  * Enables low-cost, high-throughput transactions by batching transactions off-chain.
   * Uses Zero-Knowledge Proofs (ZKPs) to allow private identity verification without exposing personal data.
   * Ensures regulatory compliance while maintaining user anonymity.
 
